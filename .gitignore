@@ -16,4 +16,5 @@ site/solrhome
 combined/data/
 combined/solrhome
 *.error
+.vagrant
 local-dev
